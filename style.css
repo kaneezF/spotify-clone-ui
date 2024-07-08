@@ -254,13 +254,27 @@ a{
 
 .album{
     width: 25%;
+    display: flex;
+    align-items: center;
+}
+.song-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.album-img {
+    width: 60px; 
+    height: 60px; 
+    margin-right: 1rem;
+    margin-left: 3rem;
 }
 
 .para1{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 0.5rem;
+    /* margin-top: 0.5rem; */
     font-size: 1rem;
 }
 
