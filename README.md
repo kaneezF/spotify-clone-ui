@@ -12,3 +12,6 @@ Main Content Area: Displays recently played tracks, trending tracks, and feature
 
 
 Music Player: Includes playback controls, progress bar, and song details with album cover, song name, and singer name.
+
+
+You can see the website live at   https://kaneezf.github.io/spotify-clone-ui/
