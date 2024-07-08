@@ -6,5 +6,9 @@ It includes a sidebar for navigation, a main content area for displaying playlis
 
 # Features
 Navigation Sidebar: Includes Home, Search, and Your Library options.
+
+
 Main Content Area: Displays recently played tracks, trending tracks, and featured charts.
+
+
 Music Player: Includes playback controls, progress bar, and song details with album cover, song name, and singer name.
